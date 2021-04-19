@@ -119,6 +119,84 @@ function exercise01() {
 }
 ```
 
+---
+
+### DELETE THIS MESSAGE IN THE FINAL VERSION OF THIS `README.md`
+
+### ALSO THE TOP AND BOTTOM SEPARATORS
+
+## More examples of defining exercises instructions
+
+---
+
+## CRUD API Exercises
+
+In this step we will create the CRUD endpoints for a Book schema that we have
+created for you. You will have to create endpoints and controllers so that you
+can create, read, modify and delete book resources.
+
+The schema can be found in the `src/models/book-model.js` file.
+
+### Seeding Users and Books
+
+Before you get started, to make sure you have enough data in the database you
+can execute the `async seedBooks()` function from the `src/db/seed.js` file.
+This will remove all existing users and books and create new ones from scratch.
+
+You can run the `seedBooks()` function in the `index.js` file when starting the
+server.
+
+### Tests Suites
+
+The test suites for these exercises can be executed with the following script:
+`npm run test:01:crud-api`.
+
+Open the files indicated bellow and read the instructions and requirements of
+the tests to solve them.
+
+- Once you are done the instructor will solve each step
+- If you get stuck you can find the answers in the
+  `01-crud-api-exercises-solution` branch
+- Try not to peek at the solutions and solve them with your pair programming
+  partner
+- To finish this part you have 20 minutes
+
+### 1. Create the books CRUD controllers in the `/src/routes/book-controllers.js` file
+
+### 2. Create the books CRUD routes in the `/src/routes/book-routes.js` file
+
+- **Test suite:** "books crud controllers"
+
+---
+
+## Mongoose Schema Exercises
+
+The test suites for these exercises can be executed with the following script:
+`npm run test:01:schemas`.
+
+Open the files indicated bellow and read the instructions and requirements of
+the tests to solve them.
+
+- Once you are done the instructor will solve each step
+- If you get stuck you can find the answers in the
+  `01-mongoose-schema-exercises-solution` branch
+- Try not to peek at the solutions and solve them with your pair programming
+  partner
+- To finish this part you have 20 minutes
+
+### 1. Create the connection logic in the `/src/db/connect.js` file
+
+- **Test suite:** "1. the `connect` function calls `mongoose.connect` with the
+  url and options"
+
+### 2. Create the `User` model in the `/src/models/user-model.js` file
+
+- **Test suite:** "2. create the 'User' model following the schema requirements"
+- **Test suite:** "3. encrypt the password before storing it in the database"
+- **Test suite:** "4. add a 'comparePassword' method to the 'User' schema"
+
+---
+
 ## Author <!-- omit in toc -->
 
 ---
