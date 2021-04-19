@@ -1,10 +1,28 @@
+#### DELETE THIS MESSAGE IN THE FINAL VERSION OF THIS `README.md`
+
+**The tags bellow will include the names of the differente technologies used in the project.**
+
+- javascript
+- react-dates
+- localStorage
+- express
+- etc
+
 `#technology1` `#technology2` `#assembler-school` `#master-in-software-engineering`
 
 # Assembler School: {technologyName} Exercises
 
 ## Getting Started
 
-**This section details how the students can clone this repository and install the required dependencies. Delete this message in the final version of this `README.md`.**
+---
+
+#### DELETE THIS MESSAGE IN THE FINAL VERSION OF THIS `README.md`
+
+##### ALSO THE TOP AND BOTTOM SEPARATORS
+
+**This section details how the students can clone this repository and install the required dependencies.**
+
+---
 
 First, you will need to clone the repo:
 
@@ -32,9 +50,17 @@ $ npm audit fix
 
 ## Exercises
 
-**This section details how the students can run the project and execute the tests. Delete this message in the final version of this `README.md`.**
+---
+
+#### DELETE THIS MESSAGE IN THE FINAL VERSION OF THIS `README.md`
+
+##### ALSO THE TOP AND BOTTOM SEPARATORS
+
+**This section details how the students can run the project and execute the tests. Include all the necessary info and related commands.**
 
 **Here are an example of how you can explain this part to the students:**
+
+---
 
 Once you have completed al the steps of the [Getting Started](#getting-started) section, you will have to execute the following command that will prepare a localhost environment.
 
@@ -80,7 +106,17 @@ function exercise01() {
 
 ## Author <!-- omit in toc -->
 
-[Username](https://github.com/...)
+---
+
+#### DELETE THIS MESSAGE IN THE FINAL VERSION OF THIS `README.md`
+
+##### ALSO THE TOP AND BOTTOM SEPARATORS
+
+**The username includes the username of the person that authored the exercises.**
+
+---
+
+[@johndoe](https://github.com/...)
 
 ## License <!-- omit in toc -->
 
