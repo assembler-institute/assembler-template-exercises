@@ -1,6 +1,6 @@
 `#tag-1` `#tag-2` `#tag-3` `#assembler-school` `#master-in-software-engineering`
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Assembler School: {technologyName} Exercises <!-- omit in toc -->
@@ -295,6 +295,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="http://www.danilucaci.com"><img src="https://avatars.githubusercontent.com/u/19062818?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dani Lucaci</b></sub></a><br /><a href="https://github.com/assembler-school/assembler-template-exercises/commits?author=danilucaci" title="Documentation">📖</a> <a href="https://github.com/assembler-school/assembler-template-exercises/commits?author=danilucaci" title="Tests">⚠️</a> <a href="#example-danilucaci" title="Examples">💡</a> <a href="https://github.com/assembler-school/assembler-template-exercises/commits?author=danilucaci" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Pau111111"><img src="https://avatars.githubusercontent.com/u/22221841?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pau111111</b></sub></a><br /><a href="https://github.com/assembler-school/assembler-template-exercises/commits?author=Pau111111" title="Documentation">📖</a> <a href="https://github.com/assembler-school/assembler-template-exercises/commits?author=Pau111111" title="Tests">⚠️</a> <a href="#example-Pau111111" title="Examples">💡</a> <a href="https://github.com/assembler-school/assembler-template-exercises/commits?author=Pau111111" title="Code">💻</a></td>
   </tr>
 </table>
 
