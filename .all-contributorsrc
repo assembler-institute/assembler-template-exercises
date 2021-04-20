@@ -16,6 +16,18 @@
         "example",
         "code"
       ]
+    },
+    {
+      "login": "Pau111111",
+      "name": "Pau111111",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22221841?v=4",
+      "profile": "https://github.com/Pau111111",
+      "contributions": [
+        "doc",
+        "test",
+        "example",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
