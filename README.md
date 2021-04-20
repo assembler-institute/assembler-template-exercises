@@ -1,4 +1,7 @@
 `#tag-1` `#tag-2` `#tag-3` `#assembler-school` `#master-in-software-engineering`
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Assembler School: {technologyName} Exercises <!-- omit in toc -->
 
@@ -294,3 +297,23 @@ exercises.**
 ## License <!-- omit in toc -->
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Pau111111"><img src="https://avatars.githubusercontent.com/u/22221841?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pau111111</b></sub></a><br /><a href="https://github.com/assembler-school/assembler-template-exercises/commits?author=Pau111111" title="Documentation">📖</a> <a href="https://github.com/assembler-school/assembler-template-exercises/commits?author=Pau111111" title="Tests">⚠️</a> <a href="#example-Pau111111" title="Examples">💡</a> <a href="https://github.com/assembler-school/assembler-template-exercises/commits?author=Pau111111" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
