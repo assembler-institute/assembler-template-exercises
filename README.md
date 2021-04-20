@@ -278,19 +278,6 @@ project.
 - [LocalStorage](https://developer.mozilla.org/es/docs/Web/API/Window/localStorage)
 - [...](...)
 
-## Author <!-- omit in toc -->
-
----
-
-#### DELETE THIS MESSAGE AND THE TOP AND BOTTOM SEPARATORS IN THE FINAL VERSION OF THIS `README.md`
-
-**The username includes the username of the person that authored the
-exercises.**
-
----
-
-[@johndoe](https://github.com/...)
-
 ## License <!-- omit in toc -->
 
 [MIT](https://choosealicense.com/licenses/mit/)
